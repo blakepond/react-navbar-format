@@ -1,10 +1,10 @@
 :root {
    font-size: 16px;
    font-family: "Allerta Stencil", sans-serif;
-   --text-primary: #f9ea9a;
+   --text-primary: #7e57c2;
    --text-secondary: #22333b;
    --bg-primary: #22333b;
-   --bg-secondary: #73683b;
+   --bg-secondary: ;
    --transition-speed: 700ms;
 }
 
@@ -18,10 +18,10 @@ body::-webkit-scrollbar {
    width: 0.25rem;
 }
 body::-webkit-scrollbar-track {
-   background: #ff8552;
+   background: #22333b;
 }
 body::-webkit-scrollbar-thumb {
-   background: #297373;
+   background: #f7af5b;
 }
 main {
    margin-left: 5rem;
